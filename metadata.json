@@ -1,0 +1,6 @@
+{
+  "name": "The Financial Domino Effect",
+  "description": "Predictive financial stress simulation and systemic risk mitigation dashboard",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
