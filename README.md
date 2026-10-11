@@ -180,7 +180,10 @@ If you would like to improve the project:
 ## 🔗 LIVE DEMO
 ###  The Financial Domino Effect
 
-the-financial-domino-effect-3pxf.vercel.app
+https://vercel.com/aethergrid1/the-financial-domino-effect-3pxf
+
+
+#  The Financial Domino Effect
 
 **One shock. Multiple consequences. A connected financial world.**
 
