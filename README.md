@@ -3,7 +3,7 @@
 
 ## 📌 Overview
 
-**The Financial Domino Effect** is an AI-powered financial risk analysis platform designed to demonstrate how an initial financial shock can trigger a chain reaction across interconnected businesses, financial institutions, and markets.
+**The Financial Domino Effect** is a financial risk analysis platform designed to demonstrate how an initial financial shock can trigger a chain reaction across interconnected businesses, financial institutions, and markets.
 
 In today's interconnected economy, a single event—such as a delayed payment, rising interest rates, a market downturn, or a major business default—can create consequences that spread far beyond its origin.
 
