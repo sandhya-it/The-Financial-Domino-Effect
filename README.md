@@ -176,6 +176,12 @@ If you would like to improve the project:
 
 
 
+📜 License
+
+This project is intended for educational, research, and prototype purposes.
+
+
+
 
 ## 🔗 LIVE DEMO
 ###  The Financial Domino Effect
