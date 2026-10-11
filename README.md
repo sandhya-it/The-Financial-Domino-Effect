@@ -60,7 +60,6 @@ Use AI-assisted analysis, where implemented, to help interpret financial scenari
 ### 🌐 6. Web-Based Accessibility
 Access the deployed application through a web browser without requiring users to install a desktop application.
 
-> Note: The exact functionality and availability of individual features depend on the current application implementation.
 
 
 
@@ -110,10 +109,6 @@ Investigate possible interventions that could reduce exposure or limit the sprea
 
 
 ## 🏗️ Technology Stack
-
-The application is deployed using Vercel.
-
-The complete technology stack should be documented according to the actual project implementation.
 
 - **Frontend:** React
 - **Backend:** Python
